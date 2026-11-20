@@ -105,6 +105,17 @@ My research interests include Deep Learning, Computer Vision, Natural Language P
   </a>
 </p>
 
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrTusher100&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrTusher100&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrTusher100&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="left">
